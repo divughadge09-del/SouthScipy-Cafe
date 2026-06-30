@@ -1,5 +1,5 @@
 # SouthScipy-Cafe
-**##Description**
+## Description
 
 SouthScipy Cafe is a modern, AI-powered cafe web application that provides customers with a seamless online dining experience. Users can browse the menu, order food online, reserve tables, interact with an AI chatbot, receive personalized food recommendations, and manage their accounts through a responsive and user-friendly interface.
  ## Features
